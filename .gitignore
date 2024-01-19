@@ -44,3 +44,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+projects/ngx-org-chart/node_modules/
+
+projects/ngx-org-chart/.idea/
